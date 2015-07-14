@@ -1,0 +1,19 @@
+html{
+    text-align: center;
+}
+h1{
+  color:red;
+  border-style: solid;
+  border-color: blue;
+  font-size: 50px;
+  margin:auto;
+}
+body{
+  background-color: rgb(150, 200, 200);
+}
+h3{
+  background-color: rgb(13,50,70);
+  font-family: "Roboto", Arial,sans-serif;
+  border: 10px solid rgb(0,0,0);
+  margin: 20px;
+}
